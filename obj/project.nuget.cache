@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ghs2aZ3VnXgDLBJKubKIUbWgumUWKeZJ2y0CwUrfpx7ME10vSxw5YdTtxb84CnJJdlbYzLtClew/4kve7njtfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saart\\Downloads\\Assignment\\Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saart\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
